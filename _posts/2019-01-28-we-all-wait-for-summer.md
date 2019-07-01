@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "We all wait for summer"
+title:  "We all wait for summer Test"
 author: jane
 categories: [ Jekyll, tutorial ]
 image: assets/images/1.jpg
