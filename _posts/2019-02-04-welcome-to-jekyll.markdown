@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Xin chào Việt Nam!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
