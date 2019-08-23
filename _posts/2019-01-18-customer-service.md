@@ -2,7 +2,7 @@
 layout: post
 title:  "What is Jekyll"
 author: jane
-categories: [ Jekyll, Design ]
+categories: [ Jekyll, design ]
 image: assets/images/11.jpg
 ---
 
